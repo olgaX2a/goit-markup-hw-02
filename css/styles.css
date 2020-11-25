@@ -221,11 +221,12 @@
   color: var(--title-color);
 }
 
-.filters-list {
+/*.filters-list {
 }
 
 .filters-list-item {
 }
+*/
 
 .filters-btn {
   background-color: rgba(245, 244, 250, 1);
